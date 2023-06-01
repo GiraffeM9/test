@@ -1,0 +1,5 @@
+colour	shape
+red	circle
+green	square
+blue	triangle
+yellow	rectangle
